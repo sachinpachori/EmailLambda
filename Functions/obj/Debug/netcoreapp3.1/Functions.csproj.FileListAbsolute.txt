@@ -1,0 +1,15 @@
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\bin\Debug\netcoreapp3.1\Functions.deps.json
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.json
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.dev.json
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\bin\Debug\netcoreapp3.1\Functions.dll
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\bin\Debug\netcoreapp3.1\Functions.pdb
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\bin\Debug\netcoreapp3.1\Amazon.Lambda.SQSEvents.dll
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\obj\Debug\netcoreapp3.1\Functions.AssemblyInfoInputs.cache
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\obj\Debug\netcoreapp3.1\Functions.AssemblyInfo.cs
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\obj\Debug\netcoreapp3.1\Functions.csproj.CoreCompileInputs.cache
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\obj\Debug\netcoreapp3.1\Functions.csproj.CopyComplete
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\obj\Debug\netcoreapp3.1\Functions.dll
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\obj\Debug\netcoreapp3.1\Functions.pdb
+C:\Users\sachin.pachori\source\repos\EmailService\EmailService\obj\Debug\netcoreapp3.1\Functions.genruntimeconfig.cache

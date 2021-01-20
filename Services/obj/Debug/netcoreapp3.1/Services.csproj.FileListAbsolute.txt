@@ -1,0 +1,5 @@
+C:\Users\sachin.pachori\source\repos\Functions\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\sachin.pachori\source\repos\Functions\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\sachin.pachori\source\repos\Functions\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\sachin.pachori\source\repos\Functions\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\sachin.pachori\source\repos\Functions\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs

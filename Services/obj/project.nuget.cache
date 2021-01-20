@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XT8yYHpU4mdPQMmy7dlXbzSDS/kI/kMEyYmzPNKzyvYSi90Pqdty2YZOdi59OEz+O05mg08lhK4z1gaFpD7j+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sachin.pachori\\source\\repos\\Functions\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sachin.pachori\\.nuget\\packages\\awssdk.core\\3.5.2\\awssdk.core.3.5.2.nupkg.sha512",
+    "C:\\Users\\sachin.pachori\\.nuget\\packages\\awssdk.simpleemail\\3.5.0.61\\awssdk.simpleemail.3.5.0.61.nupkg.sha512"
+  ],
+  "logs": []
+}
